@@ -199,16 +199,7 @@ void summationOp()
 
 int main()
 {
-    #pragma region test
-
-    /*for (int i = 0; i < 1000; i++)
-    {
-        cout << i << ": " << fac(i) << endl;
-    }*/
-
-#pragma endregion
-
-
+   
     // A boolean for controlling the flow of the program
     bool quit = false;
 
